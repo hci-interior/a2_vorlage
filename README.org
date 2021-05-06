@@ -1,0 +1,28 @@
+Hier findest du den Code meines Tutorials, mit dem Link:
+
+Links, die ich verwendet habe:
+
+https://www.pexels.com/api/documentation/?language=javascript
+https://cat-fact.herokuapp.com
+
+
+Die App kannst du hier auf Expo Snack anschauen und mit Expo Go auf
+deinem Smartphone ausprobieren.
+
+https://expo.io/@brnhrdjrdn/projects/AnimalFacts
+ 
+Die fertige App kannst du hier downloaden und im Simulator
+ausprobieren.
+
+iOS:
+https://expo.io/artifacts/fd5d6bd5-9222-4bb6-b965-1f53e0292719
+
+Android:
+https://expo.io/artifacts/06f270ef-402f-452d-b80f-3affb7f20c99
+
+
+
+Viel Spaß!
+
+Copyright by Bernhard Jordan, 2021
+Universität Wien
